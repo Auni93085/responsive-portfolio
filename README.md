@@ -1,4 +1,4 @@
-# Muhammed Habib Khan - Responsive-Portfolio
+# Muhammed Habib Khan - Responsive Portfolio
 Responsive Portfolio using first portfolio and Bootstrap
 
 # Link to Deployed Page on GitHub
